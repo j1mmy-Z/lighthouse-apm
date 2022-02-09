@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//ibatis.apache.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jimmy.lighthouse.server.mapper.TraceMapper">
+
+    <resultMap type="com.jimmy.lighthouse.server.domain.TraceDO" id="traceMap">
+        <id property="id" column="id"/>
+        <result property="startTime" column="start_time"/>
+        <result property="endTime" column="end_id"/>
+        <result property="gmtCreate" column="gmt_create"/>
+        <result property="description" column="description"/>
+    </resultMap>
+
+    <sql id="allColumns">
+        <trim suffixOverrides=",">
+            id,
+            start_time,
+            end_time,
+            gmt_create,
+            description
+        </trim>
+    </sql>
+
+    <insert id="batchSaveTrace">
+        insert into lighthouse_trace
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <include refid="allColumns"></include>
+        </trim>
+        VALUES
+        <foreach collection="list" item="trace" separator=",">
+            (
+            #{trace.id},
+            #{trace.startTime},
+            #{trace.endTime},
+            now(),
+            #{trace.description}
+            )
+        </foreach>
+    </insert>
+
+    <select id="selectByPrimaryKey" resultMap="traceMap">
+        select
+        <include refid="allColumns"/>
+        from lighthouse_trace
+        where id = #{id}
+    </select>
+
+</mapper>

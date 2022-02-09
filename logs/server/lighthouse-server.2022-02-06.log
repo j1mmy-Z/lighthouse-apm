@@ -1,0 +1,529 @@
+[2022-02-06 19:42:30.049] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 6032 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 19:42:30.049] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 19:42:30.659] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 19:42:30.659] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 19:42:30.659] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 19:42:30.659] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 19:42:30.716] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 19:42:30.716] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 635 ms
+[2022-02-06 19:42:30.800] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 19:42:30.894] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 19:42:30.909] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 19:42:30.909] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.192 seconds (JVM running for 1.85)
+[2022-02-06 19:44:21.019] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 19:44:24.827] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 9744 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 19:44:24.827] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 19:44:25.419] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 19:44:25.435] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 19:44:25.435] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 19:44:25.435] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 19:44:25.482] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 19:44:25.482] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 608 ms
+[2022-02-06 19:44:25.576] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 19:44:25.669] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 19:44:25.685] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 19:44:25.685] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.22 seconds (JVM running for 1.844)
+[2022-02-06 19:45:14.555] [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-06 19:45:14.555] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+[2022-02-06 19:45:14.555] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Completed initialization in 0 ms
+[2022-02-06 19:45:14.570] [http-nio-9090-exec-1] INFO  serverLogger : receive list:TraceSaveRequest(list=null)
+[2022-02-06 19:47:00.815] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 19:47:11.337] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 8880 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 19:47:11.337] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 19:47:11.931] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 19:47:11.931] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 19:47:11.931] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 19:47:11.931] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 19:47:11.977] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 19:47:11.977] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 609 ms
+[2022-02-06 19:47:12.087] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 19:47:12.165] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 19:47:12.181] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 19:47:12.196] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.216 seconds (JVM running for 1.808)
+[2022-02-06 19:47:28.465] [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-06 19:47:28.465] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+[2022-02-06 19:47:28.465] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Completed initialization in 0 ms
+[2022-02-06 19:47:28.527] [http-nio-9090-exec-1] INFO  serverLogger : receive list:TraceSaveRequest(list=[TraceDTO(segments=null, traceId=123, startTime=null, endTime=null)])
+[2022-02-06 19:47:42.868] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 20:02:09.369] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 11996 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 20:02:09.369] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 20:02:09.962] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 20:02:09.962] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 20:02:09.962] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 20:02:09.962] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 20:02:10.025] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 20:02:10.025] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 625 ms
+[2022-02-06 20:02:10.119] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 20:02:10.197] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 20:02:10.212] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 20:02:10.228] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.184 seconds (JVM running for 1.782)
+[2022-02-06 20:02:17.428] [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-06 20:02:17.428] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+[2022-02-06 20:02:17.428] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Completed initialization in 0 ms
+[2022-02-06 20:02:37.775] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:50:28.978] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 10544 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 21:50:28.978] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 21:50:29.728] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 21:50:29.728] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:50:29.728] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 21:50:29.728] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 21:50:29.791] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 21:50:29.791] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 781 ms
+[2022-02-06 21:50:30.088] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:50:30.203] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:50:30.219] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 21:50:30.219] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.58 seconds (JVM running for 2.136)
+[2022-02-06 21:50:58.175] [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-06 21:50:58.175] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+[2022-02-06 21:50:58.182] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Completed initialization in 7 ms
+[2022-02-06 21:50:58.314] [http-nio-9090-exec-1] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+[2022-02-06 21:50:58.642] [http-nio-9090-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from lighthouse_trace
+         
+         id,
+            start_time,
+           ' at line 1
+### The error may exist in file [D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes\mapper\TraceMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: select from lighthouse_trace                    id,             start_time,             end_time,             type,             gmt_creat,             desc                where id = ?
+### Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from lighthouse_trace
+         
+         id,
+            start_time,
+           ' at line 1
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from lighthouse_trace
+         
+         id,
+            start_time,
+           ' at line 1] with root cause
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from lighthouse_trace
+         
+         id,
+            start_time,
+           ' at line 1
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy57.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:159)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:152)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy58.selectByPrimaryKey(Unknown Source)
+	at com.jimmy.lighthouse.server.controller.TraceController.queryByTraceId(TraceController.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2022-02-06 21:52:31.216] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:52:31.216] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+[2022-02-06 21:52:31.216] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed
+[2022-02-06 21:52:35.724] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 7232 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 21:52:35.724] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 21:52:36.396] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 21:52:36.412] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:52:36.412] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 21:52:36.412] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 21:52:36.458] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 21:52:36.458] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 687 ms
+[2022-02-06 21:52:36.708] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:52:36.833] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:52:36.833] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 21:52:36.849] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.457 seconds (JVM running for 2.023)
+[2022-02-06 21:52:39.973] [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-06 21:52:39.973] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+[2022-02-06 21:52:39.979] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Completed initialization in 6 ms
+[2022-02-06 21:52:40.053] [http-nio-9090-exec-1] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+[2022-02-06 21:52:40.375] [http-nio-9090-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc 
+     
+        from lighthouse_trace
+        where id = '1'' at line 8
+### The error may exist in file [D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes\mapper\TraceMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: select                    id,             start_time,             end_time,             type,             gmt_creat,             desc                from lighthouse_trace         where id = ?
+### Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc 
+     
+        from lighthouse_trace
+        where id = '1'' at line 8
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc 
+     
+        from lighthouse_trace
+        where id = '1'' at line 8] with root cause
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc 
+     
+        from lighthouse_trace
+        where id = '1'' at line 8
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy57.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:159)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:152)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy58.selectByPrimaryKey(Unknown Source)
+	at com.jimmy.lighthouse.server.controller.TraceController.queryByTraceId(TraceController.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2022-02-06 21:56:42.958] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:56:42.958] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+[2022-02-06 21:56:48.141] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 13520 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 21:56:48.141] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 21:56:48.844] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 21:56:48.844] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:56:48.844] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 21:56:48.844] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 21:56:48.907] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 21:56:48.907] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 735 ms
+[2022-02-06 21:56:49.219] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:56:49.344] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:56:49.360] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 21:56:49.360] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.553 seconds (JVM running for 2.166)
+[2022-02-06 21:56:54.858] [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-06 21:56:54.858] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+[2022-02-06 21:56:54.864] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Completed initialization in 6 ms
+[2022-02-06 21:56:55.001] [http-nio-9090-exec-1] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+[2022-02-06 21:56:55.214] [http-nio-9090-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'
+### The error may exist in file [D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes\mapper\TraceMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: select                    id,             start_time,             end_time,             type,             gmt_creat,             description                from lighthouse_trace         where id = ?
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'] with root cause
+java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy57.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:159)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:152)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy58.selectByPrimaryKey(Unknown Source)
+	at com.jimmy.lighthouse.server.controller.TraceController.queryByTraceId(TraceController.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2022-02-06 21:57:48.086] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:57:48.086] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+[2022-02-06 21:57:48.086] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed
+[2022-02-06 21:57:52.539] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 8064 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 21:57:52.539] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 21:57:53.227] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 21:57:53.227] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:57:53.227] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 21:57:53.227] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 21:57:53.289] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 21:57:53.289] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 718 ms
+[2022-02-06 21:57:53.570] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:57:53.680] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:57:53.695] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 21:57:53.695] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.514 seconds (JVM running for 2.091)
+[2022-02-06 21:57:58.956] [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-06 21:57:58.957] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+[2022-02-06 21:57:58.960] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Completed initialization in 3 ms
+[2022-02-06 21:57:59.098] [http-nio-9090-exec-1] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+[2022-02-06 21:57:59.339] [http-nio-9090-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'gmt_creat' in 'field list'
+### The error may exist in file [D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes\mapper\TraceMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: select                    id,             start_time,             end_time,             gmt_creat,             description                from lighthouse_trace         where id = ?
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'gmt_creat' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'gmt_creat' in 'field list'] with root cause
+java.sql.SQLSyntaxErrorException: Unknown column 'gmt_creat' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy57.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:159)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:152)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy58.selectByPrimaryKey(Unknown Source)
+	at com.jimmy.lighthouse.server.controller.TraceController.queryByTraceId(TraceController.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2022-02-06 21:58:55.299] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:58:55.299] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+[2022-02-06 21:58:55.299] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed
+[2022-02-06 21:58:58.666] [main] INFO  c.j.l.server.LighthouseApplication : Starting LighthouseApplication on DESKTOP-9BH6JJ2 with PID 13244 (D:\ideaProjects\lighthouse-apm\lighthouse-server\target\classes started by jimmy in D:\ideaProjects\lighthouse-apm)
+[2022-02-06 21:58:58.666] [main] INFO  c.j.l.server.LighthouseApplication : No active profile set, falling back to default profiles: default
+[2022-02-06 21:58:59.337] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+[2022-02-06 21:58:59.353] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:58:59.353] [main] INFO  o.a.catalina.core.StandardService : Starting service [Tomcat]
+[2022-02-06 21:58:59.353] [main] INFO  o.a.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.35]
+[2022-02-06 21:58:59.400] [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+[2022-02-06 21:58:59.400] [main] INFO  o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 703 ms
+[2022-02-06 21:58:59.650] [main] INFO  o.s.s.c.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:58:59.759] [main] INFO  o.a.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-9090"]
+[2022-02-06 21:58:59.775] [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+[2022-02-06 21:58:59.775] [main] INFO  c.j.l.server.LighthouseApplication : Started LighthouseApplication in 1.45 seconds (JVM running for 2.019)
+[2022-02-06 21:59:03.945] [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-02-06 21:59:03.945] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+[2022-02-06 21:59:03.950] [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet : Completed initialization in 4 ms
+[2022-02-06 21:59:04.097] [http-nio-9090-exec-1] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} inited
+[2022-02-06 21:59:40.646] [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-02-06 21:59:40.646] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closing ...
+[2022-02-06 21:59:40.646] [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource : {dataSource-1} closed

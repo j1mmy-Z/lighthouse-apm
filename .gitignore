@@ -1,0 +1,5 @@
+# Project exclude paths
+/lighthouse-agent/target/
+/lighthouse-common/target/
+/lighthouse-plugin/target/
+/lighthouse-server/target/

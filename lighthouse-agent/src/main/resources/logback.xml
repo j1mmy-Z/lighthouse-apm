@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="60 seconds" debug="false">
+
+    <property name="LOG_HOME_WINDOWS" value="D:/ideaProjects/lighthouse-apm/logs/agent"/>
+    <property name="LOG_HOME_LINUX" value="/usr/local/lighthouse-apm/logs/agent"/>
+
+    <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[%d{yyyy-MM-dd HH:mm:ss.SSS}] [%thread] %-5level %logger{36} : %msg%n</pattern><!--彩打日志-->
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+
+    <!--滚动文件-->
+    <appender name="agentAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- ThresholdFilter:临界值过滤器，过滤掉 TRACE 和 DEBUG 级别的日志 -->
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>INFO</level>
+        </filter>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME_WINDOWS}/lighthouse-server.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <!--            <maxFileSize>100MB</maxFileSize>&lt;!&ndash;单个日志文件最大100M，到了这个值，就会再创建一个日志文件，日志文件的名字最后+1&ndash;&gt;-->
+            <maxHistory>15</maxHistory><!--保存最近30天的日志-->
+            <totalSizeCap>10GB</totalSizeCap><!--所有的日志文件最大20G，超过就会删除旧的日志-->
+        </rollingPolicy>
+        <encoder>
+            <charset>UTF-8</charset>
+            <pattern>[%d{yyyy-MM-dd HH:mm:ss.SSS}] [%thread] %-5level %logger{36} : %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="debug">
+        <appender-ref ref="stdout"/>
+    </root>
+
+    <root level="info">
+        <appender-ref ref="agentAppender"/>
+    </root>
+
+
+</configuration>
